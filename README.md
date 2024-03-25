@@ -8,7 +8,7 @@ This part will address the issue of installing LoRaWAN End-devices into sub-surf
 
 Notes;
 
-1) Boundary box phyical dimentions, materials, lids and man-hole covers.
+1) Boundary box phyical dimensions, materials, lids and man-hole covers.
 2) Meter antenna type, placement, ground-plane, performance, de-tuning. s-paramaters, radiation pattern
 3) Basic attenuation calculations
 4) RF coverage planning  - recommended configuration and input data, survey test standard measurements, validation of coverage analysis.
