@@ -1,0 +1,121 @@
+<mxfile host="Electron" modified="2024-03-25T18:19:45.052Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="OpcaNR6A7uxgjrW5NZpV" version="24.1.0" type="device">
+  <diagram name="Page-1" id="52a04d89-c75d-2922-d76d-85b35f80e030">
+    <mxGraphModel dx="873" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_DEC8DhiqVWMvWAibf7C-95" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Verdana; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b&gt;LoRaWAN - AMI/SWM RF attenuation of Uplink Signal from sub-surface Watermeter Pit/Boundary Box&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="100" width="710" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9etNeSFPA0OT7q0h3Pne-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="506.25" y="1190" as="sourcePoint" />
+            <mxPoint x="506.25" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVNxL0qkyn2NsRBvsPzV-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140.63" y="520" width="341.25" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="JVNxL0qkyn2NsRBvsPzV-2" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="100" y="450" width="430" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JVNxL0qkyn2NsRBvsPzV-6" value="LoRaWAN Weter Meter - TX output power: +14dBm at 868MHz" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;align=center;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="223.13" y="725" width="183.75" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="JVNxL0qkyn2NsRBvsPzV-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.flash;rotation=0;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="315.76" y="680" width="34.37" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JVNxL0qkyn2NsRBvsPzV-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="279.38" y="725" width="83.75" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="JVNxL0qkyn2NsRBvsPzV-21" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#432D57;fontColor=#ffffff;fillColor=#76608a;" vertex="1" parent="1">
+          <mxGeometry x="148.64" y="450" width="338" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JVNxL0qkyn2NsRBvsPzV-28" value="PCB ground plane, smaller than ideal" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#736CA8;fontColor=#1A1A1A;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JVNxL0qkyn2NsRBvsPzV-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630.63" y="733" as="sourcePoint" />
+            <mxPoint x="590.63" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVNxL0qkyn2NsRBvsPzV-31" value="Electrically short helical antenna (gain &amp;gt;0dB)" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#736CA8;fontColor=#1A1A1A;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630.63" y="700" as="sourcePoint" />
+            <mxPoint x="346.88" y="701.6300000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVNxL0qkyn2NsRBvsPzV-32" value="" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;" vertex="1" connectable="0" parent="JVNxL0qkyn2NsRBvsPzV-31">
+          <mxGeometry x="-0.3745" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVNxL0qkyn2NsRBvsPzV-34" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#736CA8;fontColor=#1A1A1A;exitX=0.038;exitY=0.343;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.002;entryY=0.293;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JVNxL0qkyn2NsRBvsPzV-8" target="JVNxL0qkyn2NsRBvsPzV-1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="318.0284200000002" y="690.395" as="sourcePoint" />
+            <mxPoint x="130.63" y="689.5997599999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVNxL0qkyn2NsRBvsPzV-35" value="Near-field Intrusion chamber walls &amp;amp; lid&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(detunes antenna)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;" vertex="1" connectable="0" parent="JVNxL0qkyn2NsRBvsPzV-34">
+          <mxGeometry x="-0.3023" y="-3" relative="1" as="geometry">
+            <mxPoint x="39" y="-77" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVNxL0qkyn2NsRBvsPzV-38" value="Metallic Lid material blocks RF" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="315.75571151097085" y="479.99836635937754" as="geometry" />
+        </mxCell>
+        <mxCell id="JVNxL0qkyn2NsRBvsPzV-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#736CA8;fontColor=#1A1A1A;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750.63" y="580" as="sourcePoint" />
+            <mxPoint x="483.88" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVNxL0qkyn2NsRBvsPzV-40" value="Plastic or concrete Meter Pit Chamber" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;" vertex="1" connectable="0" parent="JVNxL0qkyn2NsRBvsPzV-39">
+          <mxGeometry x="0.1496" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVNxL0qkyn2NsRBvsPzV-41" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#736CA8;fontColor=#1A1A1A;exitX=0;exitY=0;exitDx=430;exitDy=20;exitPerimeter=0;" edge="1" parent="1" source="JVNxL0qkyn2NsRBvsPzV-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650.63" y="710" as="sourcePoint" />
+            <mxPoint x="780.63" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVNxL0qkyn2NsRBvsPzV-42" value="Street level" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="650.6257115109709" y="459.99836635937754" as="geometry">
+            <mxPoint x="-18" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVNxL0qkyn2NsRBvsPzV-43" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#736CA8;fontColor=#1A1A1A;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="470" as="sourcePoint" />
+            <mxPoint x="130" y="469.17" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVNxL0qkyn2NsRBvsPzV-44" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#736CA8;fontColor=#1A1A1A;exitX=0.565;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.541;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JVNxL0qkyn2NsRBvsPzV-8" target="JVNxL0qkyn2NsRBvsPzV-2">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="500.63" y="870" as="sourcePoint" />
+            <mxPoint x="600.63" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="332.63" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVNxL0qkyn2NsRBvsPzV-48" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#736CA8;fontColor=#1A1A1A;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="332.36" y="450" as="sourcePoint" />
+            <mxPoint x="332.23" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVNxL0qkyn2NsRBvsPzV-49" value="RF Propergation path via gaps between lid and housing" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;" vertex="1" connectable="0" parent="JVNxL0qkyn2NsRBvsPzV-48">
+          <mxGeometry x="0.3133" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVNxL0qkyn2NsRBvsPzV-50" value="Agregate, hardcore and soil" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="660.6257115109709" y="469.99836635937754" as="geometry">
+            <mxPoint x="-52" y="39" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
