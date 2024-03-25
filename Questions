@@ -4,11 +4,11 @@ Some example questions;
 1) What attenuation figure should be used when planning LoRaWAN RF coverage of a proposed gateway, where the End-device will be installed into an enclosed meter pit / boundary box with a metal lid?
  - Answer: in dB when compared to a standard outdoor measurement at 1.5m above ground level.
   -Example: 22dB (+/- 5dB).
-2) Above for plasit lid.
-3) Considering the above answers, and an installation margin of 10dB and a slow-fading margin of 6dB,  what is the expected gateway geographical serving area for this type of end-device in a typical flat, urban area?
-4) Above for SF12 and SF9
-5) In the case of above withg SF9, what is the optimal inter-site distance for a network where each end-device with be served with a macro-diversity and redundency of minimum 2 gateways.
-
+2) Above for plastic lid.
+3) Considering the above answers, and an installation margin of 10dB and a slow-fading margin of 6dB,  what is the expected gateway geographical serving area for this type of end-device in a typical flat, urban area where the gateway antenna is 6dBi gain mounted at 9m above ground level?
+4) Above for SF12 and SF9?
+5) In the case of above with SF9, what is the optimal inter-site distance for a network where each end-device with be served with a macro-diversity and redundency of minimum 2 gateways?
+6) Is it possible to determin a formula for determining coverage area
 
 
 
