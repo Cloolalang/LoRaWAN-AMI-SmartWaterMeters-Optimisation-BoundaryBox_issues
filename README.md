@@ -18,4 +18,6 @@ Notes;
 8) Effects of frost covers, meter risers etc.
 9) CW testing
 10) Test setup calibration, test antennas and E2E LoRaWAAN network
+11) Radiated field test
+12) 
    
