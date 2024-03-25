@@ -14,7 +14,7 @@ Notes;
 4) RF coverage planning  - recommended configuration and input data, survey test standard measurements, validation of coverage analysis.
 5) Environmental variables - weather and FOD, seasonal, sand and mud inundation.
 6) End-device SF/ADR restrictions to preserve battery life, at the expence of link budget - thus forcing the requirement for lower gateway int-ersite distance, (more gateways per given geography).
-7) Methods of improving link budget for this use-case, including plactic box/chambe/pit lids, through-the-lid antennas, etc.
+7) Methods of improving link budget for this use-case, including plactic box/chambe/pit lids, through-the-lid antennas, rotaing meter position etc.
 8) Effects of frost covers, meter risers etc.
 9) CW testing
 10) Test setup calibration, test antennas and E2E LoRaWAAN network
