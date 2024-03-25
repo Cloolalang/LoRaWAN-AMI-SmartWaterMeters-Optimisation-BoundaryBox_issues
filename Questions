@@ -1,1 +1,8 @@
+Some example questions;
+
+
+1) What attenuation figure should be used when planning LoRaWAN RF coverage of a proposed gateway, where the End-device will be installed into an enclosed meter pit / boundary box with a metal lid?
+ - Answer: in dB when compared to a standard outdoor measurement at 1.5m above ground level.
+  -Example: 22dB (+/- 5dB).
+2) Above for plasit lid.
 
