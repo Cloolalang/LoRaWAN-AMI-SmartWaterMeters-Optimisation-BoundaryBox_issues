@@ -13,4 +13,6 @@ Parameters;
 3) Basic attenuation calculations
 4) RF coverage planning  - recommended configuration and input data, survey test standard measurements, validation of coverage analysis.
 5) Environmental variables - weather and FOD
+6) End-device SF/ADR restrictions to preserve battery life, at the expence of link budget - thus forcing the requirement for lower gateway int-ersite distance, (more gateways per given geography).
+7) 
    
