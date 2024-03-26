@@ -16,6 +16,19 @@ Some example questions;
 
 
 
+Questions for End-device vendors;
+
+For the end-device to operate for the planned life-cycle;
+1) What is the EIRP of the device in normal operation as measured by a lab/radiated emmision test?
+2) What is the near-field clearance area around the device in which no obstruction should exist in the installation which could effect the antenna performance?
+3) What is the maximum spreading factor and number of repititions to be used in normal operation?
+4) What is the maximum payload size and number of UL packets per day in normal operation?
+5) What is the number of DL packets that the device can recieve and process per day?
+6) Is fuota used in the device and if so, how oftern can it be used?
+7) Describe the join process and back-off cycle for failed join attempts including the spreading factors and power levels used during join.
+
+
+
 
 
 
