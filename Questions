@@ -26,7 +26,7 @@ For the end-device to operate for the planned life-cycle;
 5) What is the number of DL packets that the device can recieve and process per day?
 6) Is fuota used in the device and if so, how oftern can it be used?
 7) Describe the join process and back-off cycle for failed join attempts including the spreading factors and power levels used during join.
-
+8) LoRaWAN® EU Supplementary Device Info Questionnaire answers
 
 
 
