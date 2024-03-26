@@ -1,0 +1,26 @@
+Questions for End-device vendors;
+
+For the end-device to operate for the planned life-cycle;
+1) What is the EIRP of the device in normal operation as measured by a lab/radiated emmision test?
+2) What is the near-field clearance area around the device in which no obstruction should exist in the installation which could effect the antenna performance?
+3) What is the maximum spreading factor and number of repititions to be used in normal operation?
+4) What is the maximum payload size and number of UL packets per day in normal operation?
+5) What is the number of DL packets that the device can recieve and process per day?
+6) Is fuota used in the device and if so, how oftern can it be used?
+7) Describe the join process and back-off cycle for failed join attempts including the spreading factors and power levels used during join.
+8) LoRaWAN® EU Supplementary Device Info Questionnaire answers
+9) Which LoRaWAN technical recommendations are not implemented in the device, andf why ? https://lora-alliance.org/wp-content/uploads/2021/05/TR007_Developing_LoRaWAN_Devices-v1.0.0.pdf
+10)
+
+Questions for Network operators;
+1) How do you verify RF coverage to satisify the SLA. KPI?
+2) What level of redundency is provided?
+3) What interferance and noise mitigation processess are used to optimise the ISM band operation?
+4) How is traffic capacity managed?
+5) What perfortmance metrics are made available to the end-user?
+6) What performance auditing is used?
+7) How does the operator maintain industry and government standards compliance?
+8) How is database quality controlled and to which international standards to they apply?
+9) secureity compliance questions
+10) How are hardware faults and firmware bugs processed?
+11) what commitment is given to maintain the network hardware and firmware/BSP up to date?
