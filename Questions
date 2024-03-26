@@ -30,7 +30,14 @@ For the end-device to operate for the planned life-cycle;
 9) Which LoRaWAN technical recommendations are not implemented in the device, andf why ? https://lora-alliance.org/wp-content/uploads/2021/05/TR007_Developing_LoRaWAN_Devices-v1.0.0.pdf
 10)
 
-
+Questions for Network operators;
+1) How do you verify RF coverage to satisify the SLA. KPI?
+2) What level of redundency is provided?
+3) What interferance and noise mitigation processess are used to optimise the ISM band operation?
+4) How is traffic capacity managed?
+5) What perfortmance metrics are made available to the end-user?
+6) What performance auditing is used?
+7) 
 
 
 
