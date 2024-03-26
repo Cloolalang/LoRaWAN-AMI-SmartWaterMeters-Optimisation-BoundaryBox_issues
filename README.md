@@ -20,4 +20,5 @@ Notes;
 10) Test setup calibration, test antennas and E2E LoRaWAN network
 11) Radiated field test
 12) https://lora-alliance.org/wp-content/uploads/2021/05/TR007_Developing_LoRaWAN_Devices-v1.0.0.pdf
+13) https://www.slcmeterllc.com/slc2017/assets/pdf/cewhite.pdf
    
