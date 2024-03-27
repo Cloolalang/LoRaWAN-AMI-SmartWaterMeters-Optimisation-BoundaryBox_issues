@@ -27,4 +27,4 @@ Notes;
 17) IOT hype cycle and technological expectations
 18) https://lora-developers.semtech.com/documentation/tech-papers-and-guides/predicting-lorawan-capacity
 19) https://lora-alliance.org/wp-content/uploads/2019/10/Radiated-RF-Performance-FAQ.pdf
-   
+20) https://lora-alliance.org/wp-content/uploads/2019/07/rf_performance_test_report_20181206_trptis_1m2m_extended.pdf   
