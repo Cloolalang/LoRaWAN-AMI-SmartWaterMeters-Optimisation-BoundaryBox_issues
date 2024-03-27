@@ -26,4 +26,5 @@ Notes;
 16) Why energy-harvesting, NB-IOT at 450MHz with steet lamp post small cells will be a better fit for SWM
 17) IOT hype cycle and technological expectations
 18) https://lora-developers.semtech.com/documentation/tech-papers-and-guides/predicting-lorawan-capacity
+19) https://lora-alliance.org/wp-content/uploads/2019/10/Radiated-RF-Performance-FAQ.pdf
    
