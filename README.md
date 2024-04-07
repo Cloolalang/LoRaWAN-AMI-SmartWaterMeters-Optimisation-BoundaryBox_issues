@@ -30,3 +30,4 @@ Notes;
 20) https://lora-alliance.org/wp-content/uploads/2019/07/rf_performance_test_report_20181206_trptis_1m2m_extended.pdf
 21) https://www.youtube.com/watch?v=oI7CxF65cxY
 22) https://resources.lora-alliance.org/home/getting-started-with-the-lorawan-certification-test-tool-lctt-2
+23) wave guide cut off effect of pit dimentions and meter mounting depth
